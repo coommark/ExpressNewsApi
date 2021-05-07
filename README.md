@@ -26,9 +26,7 @@ In the four-part tutorial series, we will develop end-to-end news or blog applic
 
 ## Blog Post
 
-In this series I have also written the tutorial blogs-
-
-- Blog post
+- Read the blog post here:
   [Complete News/Blog API using NodeJS (Express), MongoDB with Swagger](https://markscodingspot.com/complete-news-blog-api-using-nodejs-express-mongodb-with-swagger)
 
 ---
