@@ -41,8 +41,8 @@ For development, you will need Node.js, MongoDb, Yarn or NPM installed in your d
 
 ```sh
 # clone it
-git clone git@github.com:developit/express-es6-rest-api.git
-cd express-es6-rest-api
+git clone https://github.com/markscodingspot/ExpressNewsApi.git
+cd ExpressNewsApi
 
 # Make it your own
 rm -rf .git && git init && npm init
