@@ -1,6 +1,6 @@
 # Complete News/Blog API using NodeJS (Express), MongoDB with Swagger
 
-This is the source code for Complete News/Blog API using NodeJS (Express), MongoDB with Swagger - Part 1 of my Complete MERN Stack video tutorial.
+This is the source code for Complete News/Blog API using NodeJS (Express), MongoDB with Swagger - Part 1 of my Complete MERN Stack video tutorial. **[Click here to check it out](https://bit.ly/3ylPSHk).**
 
 ## Watch YouTube Video Here:
 
