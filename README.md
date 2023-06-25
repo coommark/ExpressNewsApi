@@ -39,7 +39,7 @@ For development, you will need Node.js, MongoDb, Yarn or NPM installed in your d
 
 ```sh
 # clone it
-git clone https://github.com/markscodingspot/ExpressNewsApi.git
+git clone https://github.com/coommark/ExpressNewsApi.git
 cd ExpressNewsApi
 
 # Make it your own
